@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Kendall Task\Hash Table\Hash Table\main.cpp(14,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Kendall Task\Hash Table\Hash Table\HashTable.h(75): warning C4715: 'HashTable<int,int>::deleteByKey': not all control paths return a value
+E:\Kendall Task\Hash Table\Hash Table\HashTable.h(114): warning C4715: 'HashTable<int,int>::deleteByKeyLinear': not all control paths return a value
+  Hash Table.vcxproj -> E:\Kendall Task\Hash Table\Debug\Hash Table.exe

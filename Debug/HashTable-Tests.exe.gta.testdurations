@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\Kendall Task\Hash Table\Debug\HashTable-Tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="HashTableCrateTest.HashTableCreate" Duration="1" />
+    <TestDuration Test="HashTablAddTest.HashTableAdd" Duration="1" />
+    <TestDuration Test="HashTableSearchTest.HashTableSearch" Duration="1" />
+    <TestDuration Test="HashTableDeleteTest.HashTableDelete" Duration="1" />
+    <TestDuration Test="LinearProbingTest.LinearProbing" Duration="1" />
+    <TestDuration Test="QuadreticProbingTest.QuadreticProbing" Duration="1" />
+    <TestDuration Test="SearchLinearProbingTest.SearchLinearProbing" Duration="1" />
+    <TestDuration Test="DeleteLinearProbingTest.DeleteLinearProbing" Duration="1" />
+    <TestDuration Test="SearchQuadreticProbingTest.SearchQuadreticProbing" Duration="1" />
+    <TestDuration Test="DeleteQuadreticProbingTest.DeleteQuadreticProbing" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

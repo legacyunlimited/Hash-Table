@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Kendall Task\Hash Table\Hash Table\HashTable.h(75): warning C4715: 'HashTable<int,int>::deleteByKey': not all control paths return a value
+E:\Kendall Task\Hash Table\Hash Table\HashTable.h(114): warning C4715: 'HashTable<int,int>::deleteByKeyLinear': not all control paths return a value
+  HashTable-Tests.vcxproj -> E:\Kendall Task\Hash Table\Debug\HashTable-Tests.exe
